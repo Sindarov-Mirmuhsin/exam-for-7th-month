@@ -1,0 +1,17 @@
+[
+    {
+        "sub_category_id": 1,
+        "category_id": 1,
+        "sub_category_name": "smart phones"
+    },
+    {
+        "sub_category_id": 2,
+        "category_id": 2,
+        "sub_category_name": "boots"
+    },
+    {
+        "sub_category_id": 3,
+        "category_id": 3,
+        "sub_category_name": "art books"
+    }
+]

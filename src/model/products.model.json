@@ -1,0 +1,26 @@
+[
+	{
+		"product_id": 1,
+		"sub_category_id": 1,
+		"model": "redmi",
+		"product_name": "redmi note 8 pro",
+		"color": "black",
+		"price": 225
+	},
+	{
+		"product_id": 2,
+		"sub_category_id": 2,
+		"model": "salamandra",
+		"product_name": "salamandra 43 x1",
+		"color": "gray",
+		"price": 540
+	},
+	{
+		"product_id": 3,
+		"sub_category_id": 3,
+		"model": "literary",
+		"product_name": " drawing",
+		"color": "blue",
+		"price": 140
+	}
+]
